@@ -1,8 +1,7 @@
-*.jpg
-*.png
 *.db
 settings.json
 .vscode
 test.txt
 test2.txt
 __pycache__
+finished/*
